@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Navbar from './Navbar';
-import Home from './Home';
+import Home from './home';
 
 function App() {
   const title = 'Welcome to the new blog';
