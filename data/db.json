@@ -1,16 +1,10 @@
 {
-    "Blogs": [
-        {
-            "title": "My First BLog",
-            "body": "Why do we use it? \n It is a longe established fact that a reader will be distracted",
-            "author": "mario",
-            "id": 1
-        },
-        {
-            "title": "Opening Party!",
-            "body": "Why do we use it? \n It is a longe established fact that a reader will be distracted",
-            "author": "yoshi",
-            "id": 2
-        }
-    ]
+  "Blogs": [
+    {
+      "title": "My First BLog",
+      "body": "Ex id elit eu occaecat amet. Sit veniam ut sit aliqua irure aliquip sit nulla in irure tempor. Adipisicing voluptate esse incididunt in occaecat Lorem deserunt cillum eu labore officia qui.",
+      "author": "mario",
+      "id": 1
+    }
+  ]
 }
